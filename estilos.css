@@ -19,3 +19,35 @@
   .nav-link {
     color: black;
   }
+
+  .hero-h2 {
+    margin-top: 75px;
+    margin-left: 125px;
+    font-size: 42px;
+  }
+  .hero-texto {
+    color: darkgray;
+    font-size: 17px;
+    margin-left: 125px;
+  }
+  .hero .btn-primary {
+    background-color: rgb(85, 85, 245);
+    margin-left: 125px;
+    margin-right: 10px;
+    font-size: 14px;
+  }
+  .hero #btn-white {
+    font-size: 14px;
+  }
+  .hero-img {
+    margin-right: 40px;
+  }
+  .hero-figura {
+    background-color: rgb(85, 85, 245);
+    width: 500px;
+    height: 350px;
+    margin-top: -320px;
+    margin-left: 200px;
+    border-bottom-left-radius: 35%;
+  }
+  
