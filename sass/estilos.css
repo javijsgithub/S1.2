@@ -1,1 +1,275 @@
 /*# sourceMappingURL=estilos.css.map */
+
+.container-fluid {
+    margin-bottom: 100px;
+  }
+  
+  
+  .top-navbar .logo {
+    margin-left: 125px;
+  }
+  .top-navbar .navbar-collapse {
+    align-items: center;
+    margin-left: 420px;
+  }
+  .top-navbar .btn-danger {
+    width: 110px;
+  }
+  .btn-danger:hover {
+    background-color: white;
+    border-color: rgb(214, 56, 56);
+    color: rgb(214, 56, 56);
+  }
+  .top-navbar .navbar li {
+    margin-right: 30px;
+  }
+  .nav-link {
+    color: black;
+  }
+  .nav-link:hover {
+    color: rgb(214, 56, 56);
+  }
+ 
+
+  .hero-h2 {
+    margin-top: 75px;
+    margin-left: 125px;
+    font-size: 42px;
+  }
+  .hero-texto {
+    color: darkgray;
+    font-size: 17px;
+    margin-left: 125px;
+  }
+  .hero .btn-primary {
+    background-color: rgb(85, 85, 245);
+    margin-left: 125px;
+    margin-right: 10px;
+    font-size: 14px;
+  }
+  #btn-hero-blue:hover {
+    background-color: white;
+    border-color: rgb(85, 85, 245);
+    color: rgb(85, 85, 245);
+  }
+  .hero #btn-white {
+    font-size: 14px;
+  }
+  #btn-white:hover {
+    border-color: black;
+  }
+  .hero-img {
+    margin-right: 40px;
+  }
+  .hero-figura {
+    background-color: rgb(85, 85, 245);
+    width: 500px;
+    height: 350px;
+    margin-top: -320px;
+    margin-left: 200px;
+    border-bottom-left-radius: 35%;
+  }
+
+
+  .funcionalidades-h2 {
+    margin-left: 580px;
+    font-size: 30px;
+  }
+  .funcionalidades-texto1 {
+    margin-left: 385px;
+    font-size: 17.5px;
+    color: darkgrey;
+    margin-top: 10px;
+    width: 500px;
+  }
+  .funcionalidades .tab {
+    margin-left: 360px;
+  }
+  .funcionalidades .tab li {
+    margin-right: 80px;
+    font-size: 16px;
+  }
+  .funcionalidades .nav-link {
+    color: rgb(85, 85, 245);
+  }
+  .funcionalidades .nav-link:hover {
+    color: rgb(214, 56, 56);
+  }
+  .funcionalidades img {
+    margin-left: 125px;
+    margin-top: 75px;
+  }
+  .funcionalidades-figura {
+    background-color: rgb(85, 85, 245);
+    width: 575px;
+    height: 350px;
+    margin-top: -260px;
+    border-bottom-right-radius: 35%;
+  }
+  .funcionalidades-h3 {
+    margin-left: 40px;
+    margin-top: 130px;
+  }
+  .funcionalidades-texto2 {
+    color: darkgray;
+    margin-left: 40px;
+    margin-right: 150px;
+    font-size: 17px;
+  }
+  .funcionalidades .btn {
+    background-color: rgb(85, 85, 245);
+    margin-left: 40px;
+    margin-top: 15px;
+  }
+  #btn-funcionalidades-blue:hover {
+    background-color: white;
+    border-color: rgb(85, 85, 245);
+    color: rgb(85, 85, 245);
+  }
+  
+
+  .descargas-texto {
+    color: darkgray;
+    margin-left: 400px;
+    width: 500px;
+    font-size: 17px;
+    margin-top: 10px;
+  }
+  .descargas .card1 {
+    width: 250px;
+    margin-left: 220px;
+    margin-top: 30px;
+  }
+  #btn-card1:hover {
+    background-color: white;
+    border-color: rgb(85, 85, 245);
+    color: rgb(85, 85, 245);
+  }
+  .descargas .card2 {
+    width: 250px;
+    margin-left: 520px;
+    margin-top: -275px;
+  }
+  #btn-card2:hover {
+    background-color: white;
+    border-color: rgb(85, 85, 245);
+    color: rgb(85, 85, 245);
+  }
+  .descargas .card3 {
+    width: 250px;
+    margin-left: 820px;
+    margin-top: -275px;
+  }
+  #btn-card3:hover {
+    background-color: white;
+    border-color: rgb(85, 85, 245);
+    color: rgb(85, 85, 245);
+  }
+  .descargas .card-img-top {
+    width: 125px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+  }
+  .descargas .card-img-bottom {
+    margin-bottom: 25px;
+  }
+  .descargas .card-text {
+    color: darkgray;
+  }
+  .descargas .card .btn-primary {
+    background-color: rgb(85, 85, 245);
+  }
+  
+
+  .acordion-texto {
+    color: darkgray;
+    margin-left: 400px;
+    width: 500px;
+    font-size: 17.5px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+  #accordionFlushExample {
+    width: 500px;
+    margin-left: 400px;
+  }
+  .accordion-button:hover {
+    color: rgb(214, 56, 56);
+  }
+  .acordion .btn {
+    background-color: rgb(85, 85, 245);
+    margin-top: 35px;
+    margin-left: 200px;
+  }  
+  #btn-accordion:hover {
+    background-color: white;
+    border-color: rgb(85, 85, 245);
+    color: rgb(85, 85, 245);
+  }
+  
+
+  .footer .container-fluid {
+    background-color: rgb(85, 85, 245);
+    margin-bottom: 0px;
+  }
+  .footer-h6 {
+    color: white;
+    margin-top: 50px;
+  }
+  .footer-h3 {
+    color: white;
+    width: 400px;
+    margin-left: 465px;
+  }
+  .footer .form-control {
+    width: 250px;
+    height: 37px;
+    border-radius: 5px;
+    border-color: transparent;
+    margin-left: 475px;
+    margin-right: 10px;
+    margin-bottom: 75px;
+  }
+  .invalid-tooltip {
+    margin-left: 475px;
+    margin-top: -100px;
+  }
+  .footer .btn {
+    width: 100px;
+    margin-left: 740px;
+    margin-top: -214px;
+  }
+  
+  
+  .bottom-navbar {
+    background-color: rgb(18, 18, 56);
+  }
+  .bottom-navbar li {
+    margin-top: 5px;
+    margin-right: 25px;
+  }
+  .bottom-navbar .nav-link {
+    color: white;
+  }
+  .nav-link:hover {
+    color: rgb(214, 56, 56);
+  }
+  .bottom-navbar .logo {
+    margin-left: 125px;
+    margin-right: 50px;
+  }
+  #logo-facebook {
+    margin-left: 425px;
+  }  
+  #logo-facebook:hover {
+   background-color: rgb(214, 56, 56);
+   border-radius: 30%;
+   /*color: rgb(214, 56, 56);*/
+   /*fill: rgb(214, 56, 56);*/
+  }
+  #logo-twitter:hover {
+    background-color: rgb(214, 56, 56);
+    border-radius: 30%;
+  }
+  
+  
