@@ -13,12 +13,21 @@
   .top-navbar .btn-danger {
     width: 110px;
   }
+  .btn-danger:hover {
+    background-color: white;
+    border-color: rgb(214, 56, 56);
+    color: rgb(214, 56, 56);
+  }
   .top-navbar .navbar li {
     margin-right: 30px;
   }
   .nav-link {
     color: black;
   }
+  .nav-link:hover {
+    color: rgb(214, 56, 56);
+  }
+ 
 
   .hero-h2 {
     margin-top: 75px;
@@ -36,8 +45,16 @@
     margin-right: 10px;
     font-size: 14px;
   }
+  #btn-hero-blue:hover {
+    background-color: white;
+    border-color: rgb(85, 85, 245);
+    color: rgb(85, 85, 245);
+  }
   .hero #btn-white {
     font-size: 14px;
+  }
+  #btn-white:hover {
+    border-color: black;
   }
   .hero-img {
     margin-right: 40px;
@@ -50,6 +67,7 @@
     margin-left: 200px;
     border-bottom-left-radius: 35%;
   }
+
 
   .funcionalidades-h2 {
     margin-left: 580px;
@@ -71,6 +89,9 @@
   }
   .funcionalidades .nav-link {
     color: rgb(85, 85, 245);
+  }
+  .funcionalidades .nav-link:hover {
+    color: rgb(214, 56, 56);
   }
   .funcionalidades img {
     margin-left: 125px;
@@ -98,6 +119,12 @@
     margin-left: 40px;
     margin-top: 15px;
   }
+  #btn-funcionalidades-blue:hover {
+    background-color: white;
+    border-color: rgb(85, 85, 245);
+    color: rgb(85, 85, 245);
+  }
+  
 
   .descargas-texto {
     color: darkgray;
@@ -111,15 +138,30 @@
     margin-left: 220px;
     margin-top: 30px;
   }
+  #btn-card1:hover {
+    background-color: white;
+    border-color: rgb(85, 85, 245);
+    color: rgb(85, 85, 245);
+  }
   .descargas .card2 {
     width: 250px;
     margin-left: 520px;
     margin-top: -275px;
   }
+  #btn-card2:hover {
+    background-color: white;
+    border-color: rgb(85, 85, 245);
+    color: rgb(85, 85, 245);
+  }
   .descargas .card3 {
     width: 250px;
     margin-left: 820px;
     margin-top: -275px;
+  }
+  #btn-card3:hover {
+    background-color: white;
+    border-color: rgb(85, 85, 245);
+    color: rgb(85, 85, 245);
   }
   .descargas .card-img-top {
     width: 125px;
@@ -135,6 +177,7 @@
   .descargas .card .btn-primary {
     background-color: rgb(85, 85, 245);
   }
+  
 
   .acordion-texto {
     color: darkgray;
@@ -148,11 +191,20 @@
     width: 500px;
     margin-left: 400px;
   }
+  .accordion-button:hover {
+    color: rgb(214, 56, 56);
+  }
   .acordion .btn {
     background-color: rgb(85, 85, 245);
     margin-top: 35px;
     margin-left: 200px;
+  }  
+  #btn-accordion:hover {
+    background-color: white;
+    border-color: rgb(85, 85, 245);
+    color: rgb(85, 85, 245);
   }
+  
 
   .footer .container-fluid {
     background-color: rgb(85, 85, 245);
@@ -197,11 +249,25 @@
   .bottom-navbar .nav-link {
     color: white;
   }
+  .nav-link:hover {
+    color: rgb(214, 56, 56);
+  }
   .bottom-navbar .logo {
     margin-left: 125px;
     margin-right: 50px;
   }
   #logo-facebook {
     margin-left: 425px;
+  }  
+  #logo-facebook:hover {
+   background-color: rgb(214, 56, 56);
+   border-radius: 30%;
+   /*color: rgb(214, 56, 56);*/
+   /*fill: rgb(214, 56, 56);*/
   }
+  #logo-twitter:hover {
+    background-color: rgb(214, 56, 56);
+    border-radius: 30%;
+  }
+  
   
