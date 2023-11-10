@@ -153,4 +153,55 @@
     margin-top: 35px;
     margin-left: 200px;
   }
+
+  .footer .container-fluid {
+    background-color: rgb(85, 85, 245);
+    margin-bottom: 0px;
+  }
+  .footer-h6 {
+    color: white;
+    margin-top: 50px;
+  }
+  .footer-h3 {
+    color: white;
+    width: 400px;
+    margin-left: 465px;
+  }
+  .footer .form-control {
+    width: 250px;
+    height: 37px;
+    border-radius: 5px;
+    border-color: transparent;
+    margin-left: 475px;
+    margin-right: 10px;
+    margin-bottom: 75px;
+  }
+  .invalid-tooltip {
+    margin-left: 475px;
+    margin-top: -100px;
+  }
+  .footer .btn {
+    width: 100px;
+    margin-left: 740px;
+    margin-top: -214px;
+  }
+  
+  
+  .bottom-navbar {
+    background-color: rgb(18, 18, 56);
+  }
+  .bottom-navbar li {
+    margin-top: 5px;
+    margin-right: 25px;
+  }
+  .bottom-navbar .nav-link {
+    color: white;
+  }
+  .bottom-navbar .logo {
+    margin-left: 125px;
+    margin-right: 50px;
+  }
+  #logo-facebook {
+    margin-left: 425px;
+  }
   
