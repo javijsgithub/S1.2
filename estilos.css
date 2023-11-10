@@ -50,4 +50,52 @@
     margin-left: 200px;
     border-bottom-left-radius: 35%;
   }
+
+  .funcionalidades-h2 {
+    margin-left: 580px;
+    font-size: 30px;
+  }
+  .funcionalidades-texto1 {
+    margin-left: 385px;
+    font-size: 17.5px;
+    color: darkgrey;
+    margin-top: 10px;
+    width: 500px;
+  }
+  .funcionalidades .tab {
+    margin-left: 360px;
+  }
+  .funcionalidades .tab li {
+    margin-right: 80px;
+    font-size: 16px;
+  }
+  .funcionalidades .nav-link {
+    color: rgb(85, 85, 245);
+  }
+  .funcionalidades img {
+    margin-left: 125px;
+    margin-top: 75px;
+  }
+  .funcionalidades-figura {
+    background-color: rgb(85, 85, 245);
+    width: 575px;
+    height: 350px;
+    margin-top: -260px;
+    border-bottom-right-radius: 35%;
+  }
+  .funcionalidades-h3 {
+    margin-left: 40px;
+    margin-top: 130px;
+  }
+  .funcionalidades-texto2 {
+    color: darkgray;
+    margin-left: 40px;
+    margin-right: 150px;
+    font-size: 17px;
+  }
+  .funcionalidades .btn {
+    background-color: rgb(85, 85, 245);
+    margin-left: 40px;
+    margin-top: 15px;
+  }
   
