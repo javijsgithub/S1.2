@@ -1,0 +1,21 @@
+.container-fluid {
+    margin-bottom: 100px;
+  }
+  
+  
+  .top-navbar .logo {
+    margin-left: 125px;
+  }
+  .top-navbar .navbar-collapse {
+    align-items: center;
+    margin-left: 420px;
+  }
+  .top-navbar .btn-danger {
+    width: 110px;
+  }
+  .top-navbar .navbar li {
+    margin-right: 30px;
+  }
+  .nav-link {
+    color: black;
+  }
