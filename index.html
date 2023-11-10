@@ -275,14 +275,27 @@
             </div> 
           </nav>
         </div>
-  </footer> 
+    </footer> 
 
-
-
-
-
-
-  <!--bootstrap-->
-  <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script>
+    (() => {
+      'use strict'
+    
+      const forms = document.querySelectorAll('.needs-validation')
+    
+      Array.from(forms).forEach(form => {
+        form.addEventListener('submit', event => {
+          if (!form.checkValidity()) {
+            event.preventDefault()
+            event.stopPropagation()
+          }
+    
+          form.classList.add('was-validated')
+        }, false)
+      })
+    })()
+    </script>
+    <!--bootstrap-->
+    <script src="bootstrap/js/bootstrap.min.js"></script>
 </body>
 </html>
