@@ -98,4 +98,41 @@
     margin-left: 40px;
     margin-top: 15px;
   }
+
+  .descargas-texto {
+    color: darkgray;
+    margin-left: 400px;
+    width: 500px;
+    font-size: 17px;
+    margin-top: 10px;
+  }
+  .descargas .card1 {
+    width: 250px;
+    margin-left: 220px;
+    margin-top: 30px;
+  }
+  .descargas .card2 {
+    width: 250px;
+    margin-left: 520px;
+    margin-top: -275px;
+  }
+  .descargas .card3 {
+    width: 250px;
+    margin-left: 820px;
+    margin-top: -275px;
+  }
+  .descargas .card-img-top {
+    width: 125px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+  }
+  .descargas .card-img-bottom {
+    margin-bottom: 25px;
+  }
+  .descargas .card-text {
+    color: darkgray;
+  }
+  .descargas .card .btn-primary {
+    background-color: rgb(85, 85, 245);
+  }
   
