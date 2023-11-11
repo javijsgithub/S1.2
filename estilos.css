@@ -269,5 +269,20 @@
     background-color: rgb(214, 56, 56);
     border-radius: 30%;
   }
+
+  @media screen and (max-width: 576px) {
+
+    .hero .row {
+      text-align: center;
+      justify-content: center;
+      align-content: center;
+      align-items: center;
+    }
+    .funcionalidades .row {
+      text-align: center;
+    }
+    
+  }
+
   
   
