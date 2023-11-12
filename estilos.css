@@ -270,6 +270,21 @@
     border-radius: 30%;
   }
 
+  @media screen and (max-width: 768px) {
+
+    .hero .row {
+      text-align: center;
+      justify-content: center;
+      align-content: center;
+      align-items: center;
+    }
+    .funcionalidades .row {
+      text-align: center;
+    }
+    
+  }
+
+
   @media screen and (max-width: 576px) {
 
     .hero .row {
